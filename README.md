@@ -27,4 +27,4 @@ python3 cnnlstm.py
 Beware training both models can take upwards of 40 minutes each depending on compute power of your machine. 
 
 
-![Poster Board](Poster Board.jpeg)
+![Poster Board](Poster_Board.jpeg)
